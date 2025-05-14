@@ -1,0 +1,3 @@
+Node.js Stream.
+ 
+Stream is one of the basic fundamental technic that support Node.js application. This technic can handle write and read files, communicate with network, or workloads that runs efficiently.
